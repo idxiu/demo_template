@@ -1,1 +1,0 @@
-xcopy   /e /s /h /exclude:uncopy.txt  vue3-toimc-admin-team   vue3-toimc-admin-thin

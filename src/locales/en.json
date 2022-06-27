@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "CustomHeader": {
+      "quit": "Exit"
+    }
+  },
+  "menu": {
+    "home": "Home",
+    "overview": "Overview",
+    "dashboard": "Dashboard",
+    "about": {
+      "about-us": "AboutUs",
+      "title": "About"
+    }
+  },
+  "components": {
+    "tools": {
+      "i18n": {
+        "card-title": "Examples of internationalisation",
+        "test": "test words1",
+        "5zpfmf": "test words 2",
+        "c2am9h": "xxxx"
+      },
+      "splitpanel": "Split Panel"
+    },
+    "editor": {
+      "milkdown": {
+        "heading": "Title",
+        "large-heading": "Large Heading",
+        "medium-heading": "Medium Heading",
+        "small-heading": "Small Heading",
+        "plain-text": "Plain Text"
+      }
+    },
+    "verify": {
+      "dragText": "Please hold down the slider and drag",
+      "error": "verification failed!",
+      "redoTip": "Click image to refresh",
+      "successText": "Verified",
+      "time": "The verification is successful, it takes {time} seconds!"
+    },
+    "player": {
+      "audio": {
+        "next": "next item",
+        "prev": "prev item",
+        "play": "play",
+        "pause": "pause",
+        "volume": "volume",
+        "muted": "muted",
+        "unmuted": "unmute",
+        "rate": "rate"
+      },
+      "video": {
+        "next": "next item",
+        "prev": "prev item",
+        "loop": "loop"
+      }
+    }
+  },
+  "test": "test"
+}
